@@ -1,0 +1,184 @@
+.header {
+    background-color: #3b5998;
+    height: 90px;
+    width: 100%;
+} 
+body{
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif ;     
+}
+.logo {
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+    
+}
+.login {
+    width: 50%;
+    float: left;
+    padding-top: 19px;
+}
+.text {
+    color: white;
+    cursor: pointer;
+    text-decoration: wavy;
+    
+    
+}
+.big {
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    margin-left: 120px;
+   
+}
+.mail { 
+    color: aliceblue;
+    font-size: 15px;
+    
+
+}
+
+.forgot { 
+    color: #b9b9b9;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                
+    
+    }
+    
+
+
+.login-form{
+    margin-left:170px;
+}
+.button{
+    
+    color: white;
+    
+    background-color: #396bd3;
+    color: white;
+    border: -2px;
+    border-color: #121111;
+    cursor: pointer;
+}
+.button:hover{
+    background: rgb(39 183 231);
+}
+.body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 1000px;
+}
+.left {
+    width: 50%;
+    float: left;
+}
+.paragraph{
+    color:#010611 ;
+    font-size: 22px;
+    font-family: ui-rounded;
+    padding-left: 117px;
+}
+.img{
+        padding-left: 171px;
+}
+.right{
+    width: 50%;
+    float: left;    
+}
+.account{
+        padding-left: 85px;
+        
+
+}
+.left-paragraph{
+    padding-left: 96px;
+    font-size: 17px;
+    font-family: ui-rounded;
+
+}
+.email-two{
+        padding-bottom: 10px;
+        margin-left: 86px;
+        padding-left: 183px;
+        border-radius: 5px;
+        border-color: #959595;
+
+}
+.passwword-two{
+    padding-left: 21px;
+    padding-top: 8px;
+    margin-left: 86px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-color: #959595;
+
+}
+.mainbody-details{
+        margin-left: 88px;
+        
+
+}
+.dob{
+    float: left;
+    
+    margin-left: 82px;
+    color: #4c4545;
+}
+.first-name{
+    border-radius: 5px;
+    border-color: #959595;
+}
+.surname{
+    border-radius: 5px;
+    border-color: #959595;
+}
+.year{
+    margin-top: 24px;
+    
+    margin-left: 19px;
+
+}
+.gender{
+    margin-left: 79px;
+
+}
+.male{
+    margin-left: 80px;
+
+}
+.last{
+    color: #181717;
+    /* background-color: #04ed04; */
+    margin-left: 80px;
+    margin-top: 34px;
+    width: 132px;
+    height: 41px;
+    border-radius: 26px;
+    cursor: pointer;
+    background: linear-gradient(green,#04ed04);
+    
+    
+}
+.last:hover{
+    background-color: green;
+}
+#h{
+    
+
+    margin-left: 386px;
+    margin-top: 0;
+    padding-top: 200px;
+    
+}
+#div{
+    height: 100px;
+    width: 100%;
+    cursor: progress;
+    height: 1000px;
+}
+    
+
+
+
+
