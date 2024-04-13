@@ -1,8 +1,8 @@
-# html-projects
-projects based only on html 
-# Facebook HTML Login Page
+# html/CSS-projects
+projects based only on html AND CSS 
+# Facebook HTML/CSS Login Page
 
-This repository contains a simple HTML code to create a old Facebook login page lookalike. It's designed for educational purposes to understand the structure and design of a login page using HTML.
+This repository contains a simple HTML and CSS code to create a old Facebook login page lookalike. It's designed for educational purposes to understand the structure and design of a login page using HTML AND CSS.
 
 ## Project Description
 
